@@ -1,0 +1,23 @@
+.background {
+  background-color: lightgray;
+}
+
+.headerWrapper {
+  padding: 5px;
+  display: flex;
+  background-color: lightblue;
+  margin-bottom: 6px;
+  min-height: 50px;
+}
+
+.navLink {
+  margin: 0 20px;
+  align-self: center;
+}
+
+.button {
+  margin: 0 20px;
+  color: #646cff;
+  align-self: center;
+  font-weight: bold;
+}
